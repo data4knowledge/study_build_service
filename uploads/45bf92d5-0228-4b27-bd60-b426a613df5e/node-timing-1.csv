@@ -1,0 +1,7 @@
+"id:ID","timingWindowLower","name","label","id","timingWindow","timingValue","timingWindowUpper","uuid","description"
+"245","","TIM1","Screening","Timing_1","","P2D","","1f40100e-ddaa-49a8-8b1f-e70c0261863b","Screening timing"
+"246","PT4H","TIM2","Pre dose","Timing_2","-4..0 hours","PT15M","PT0H","e1fe7753-8764-4714-8381-add948c69b5a","Pre dose timing"
+"247","","TIM3","Dosing","Timing_3","","P1D","","88d86f47-2100-450e-986b-3244e15abdb0","Dosing anchor"
+"248","P1D","TIM4","Day 14","Timing_4","-1..1 days","P14D","P1D","b449a9ac-32cf-42b3-8668-b14e9d8b6161","Day 14 timing"
+"249","P1D","TIM4","Day 28","Timing_5","-1..1 days","P28D","P1D","232ff247-8656-4cc0-a3ab-55cac0145d20","Day 28 timing"
+"250","P3D","TIM5","Follow Up","Timing_6","-3..3 days","P42D","P3D","0886a70a-c2e2-48e4-ad1d-f498ab7b8d8c","Follow up timing"
