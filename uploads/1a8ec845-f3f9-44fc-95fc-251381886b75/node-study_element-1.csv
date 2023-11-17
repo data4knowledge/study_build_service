@@ -1,0 +1,6 @@
+"name","uuid:ID","label","id","description"
+"EL1","aae60014-f257-4199-95b9-fa3c57d9942c","","StudyElement_1","Screening Element"
+"EL2","274e12ee-db30-47dc-98b4-ca65e9345246","","StudyElement_2","Baseline Element"
+"EL3","6cd8aaf1-b542-4009-bef3-a3f05fa9c41c","","StudyElement_3","Treatment Element 1"
+"EL5","1341be4d-8da0-4ab1-8e16-25f66553ace1","","StudyElement_5","Treatment Element 2"
+"EL4","c42c7cf8-507a-4c3e-abfe-01b3ec819746","","StudyElement_4","Follow Up Element"
