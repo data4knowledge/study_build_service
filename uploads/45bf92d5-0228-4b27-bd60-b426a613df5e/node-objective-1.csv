@@ -1,0 +1,3 @@
+"id:ID","name","label","id","text","instanceType","uuid","description"
+"239","OBJ1","","Objective_1","The primary efficacy objective for this study is to evaluate the efficacy of TCZ compared with placebo in combination with SOC for the treatment of severe COVID-19 pneumonia","OBJECTIVE","679d6df2-c676-4fc1-ad41-0c247dd7cb80","Primary"
+"240","OBJ2","","Objective_2","The secondary efficacy objective for this study is to evaluate the efficacy of TCZ compared with placebo in combination with SOC for the treatment of severe COVID-19 pneumonia over the age of [min_age]","OBJECTIVE","1b33a1f5-2406-42cc-ac08-7836752603e7","Secondary"
