@@ -1,0 +1,5 @@
+"id:ID","instanceType","label","text","description","name","uuid","id"
+"758","OBJECTIVE","","To determine if there is a statistically significant relationship (overall Type 1 erroralpha=0.05) between the change in both the ADAS-Cog (11) and CIBIC+ scores, and drug dose (0, 50 cm2 [54 mg], and 75 cm2 [81 mg]).","Main objective","OBJ1","dc74d658-f45e-4f9c-a0ca-c30659685e5b","Objective_1"
+"759","OBJECTIVE","","To document the safety profile of the xanomeline TTS.","Safety","OBJ2","5c55ee9a-2e0e-4d13-b859-dd5224be9d34","Objective_2"
+"760","OBJECTIVE","","To assess the dose-dependent improvement in behavior. Improved scores on the Revised Neuropsychiatric Inventory (NPI-X) will indicate improvement in these
+areas.","Behaviour","OBJ3","966d0f07-e528-4958-926f-d1dcaf35d647","Objective_3"
