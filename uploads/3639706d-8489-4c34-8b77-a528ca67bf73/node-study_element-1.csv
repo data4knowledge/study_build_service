@@ -1,8 +1,0 @@
-"id:ID","label","transitionEndRule","description","name","uuid","id"
-"741","Screening","","Screening Element","EL1","9faf7f8d-e119-48a7-8e37-7ac45a9c3fd9","StudyElement_1"
-"742","Placebo","","Placebo TTS (adhesive patches)","EL2","684509ae-44f2-4987-b43e-93d3676ac11a","StudyElement_2"
-"743","Follow up","","Follow Up Element","EL7","209d9f2d-45b9-4dd6-ac58-2a7bb793127b","StudyElement_7"
-"744","Low","","Xanomeline TTS (adhesive patches) 50 cm2, 54 mg","EL3","892b006f-1568-4054-bb2f-0b111ce38928","StudyElement_3"
-"745","High - Start","","Xanomeline TTS (adhesive patches) 50 cm2, 54 mg","EL4","b0d7206b-cde7-4967-bc55-ac8b50b0fb1f","StudyElement_4"
-"746","High - Middle","","Xanomeline TTS (adhesive patches) 50 cm2, 54 mg + 25 cm2, 27 mg","EL5","c6217392-d2e1-4952-8a5d-4bc778fd214a","StudyElement_5"
-"747","High - End","","Xanomeline TTS (adhesive patches) 50 cm2, 54 mg","EL6","216d4de9-e79a-44f8-bdf5-bb93d43b4b20","StudyElement_6"
