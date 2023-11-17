@@ -1,0 +1,5 @@
+"instanceType","name","text","uuid:ID","id","description","identifier","label"
+"ELIGIBILITY_CRITERIA","Age Criteria","Subjects shall be between [min_age] and [max_age]","ba4516fd-c3f8-456a-adf6-cbf95ab95e56","EligibilityCriteria_1","The study age criterion","1",""
+"ELIGIBILITY_CRITERIA","Age Criteria Error","Subjects shall be between [min_age] and [max_agexxx]","8aad4cbd-65a0-46b0-988d-865dce4b6358","EligibilityCriteria_2","The study age criterion with error","2",""
+"ELIGIBILITY_CRITERIA","Drug A","Subjects has been treated with Drug A at any time in the past","b9300702-c496-4210-993a-c206ade9f423","EligibilityCriteria_3","Ever taken drug A","1",""
+"ELIGIBILITY_CRITERIA","Berber","Pick up activity [xxxx]","9676c776-a29d-4148-a997-23f6e47f9031","EligibilityCriteria_4","Test for Berber","2",""
