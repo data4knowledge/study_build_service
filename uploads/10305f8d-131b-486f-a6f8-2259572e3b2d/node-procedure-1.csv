@@ -1,0 +1,3 @@
+"name","procedureIsConditional","uuid:ID","id","description","procedureType","label","procedureIsConditionalReason"
+"PR1","False","dc0c1d45-5bed-4607-9cf4-1513769eddc3","Procedure_1","Stress procedure","Stress","Stress procedure",""
+"PR2","True","26a5f4af-9e51-4e3e-a3f2-3f6798c62292","Procedure_2","6min Walk Test conducted after the stress test","Stress","6MWT","Only if stress test passed"
