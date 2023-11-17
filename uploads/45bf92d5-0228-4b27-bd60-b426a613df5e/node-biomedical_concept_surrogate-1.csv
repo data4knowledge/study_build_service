@@ -1,0 +1,5 @@
+"id:ID","name","label","id","uuid","description","bcSurrogateReference"
+"201","Age","Age","BiomedicalConceptSurrogate_1","5dea696e-75a2-487a-a867-8ff07ab663f9","Age","None set"
+"202","Weight","Weight","BiomedicalConceptSurrogate_2","36fb9db2-5740-4b0f-835e-ea076b0d4c97","Weight","None set"
+"203","SYSBP","SYSBP","BiomedicalConceptSurrogate_3","d13d5b46-e1e0-4323-9a28-b01a0eb2107d","SYSBP","None set"
+"204","DIABP","DIABP","BiomedicalConceptSurrogate_4","023d883c-3c54-4f52-b864-af1b2b93764b","DIABP","None set"
