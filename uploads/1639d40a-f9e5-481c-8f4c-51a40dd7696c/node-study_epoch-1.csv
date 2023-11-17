@@ -1,0 +1,6 @@
+"id","uuid:ID","label","name","description"
+"StudyEpoch_1","10329776-d752-461b-89d3-b9849acb852e","Screening","Screening","Screening Epoch"
+"StudyEpoch_2","1651d736-ffbf-4d45-9192-fdde4a7b52b6","Treatment One","Treatment 1","Treatment Epoch"
+"StudyEpoch_3","1e637f17-00c1-47a7-a458-1a3dbddad4f5","Treatment Two","Treatment 2","Treatment Epoch"
+"StudyEpoch_4","dce2f798-fb8a-4a5d-a23f-00a1fd2e267f","Treatment Three","Treatment 3","Treatment Epoch"
+"StudyEpoch_5","49d7ba64-9157-4053-a5c8-fc0ccde20540","Follow Up","Follow-Up","Follow-up Epoch"
