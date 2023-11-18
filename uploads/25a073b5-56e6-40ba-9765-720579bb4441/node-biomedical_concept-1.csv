@@ -1,0 +1,4 @@
+"bcSynonyms","name","id","uuid:ID","label","bcReference"
+"[]","Sex","BiomedicalConcept_1","0961ee1f-dacd-4391-8812-f22a87b16e6b","Sex","/mdr/bc/packages/2023-03-31/biomedicalconcepts/C28421"
+"['Racial Group']","Race","BiomedicalConcept_2","14fb5e0c-7cb1-4a8f-8665-752e6a454812","Race","/mdr/bc/packages/2023-03-31/biomedicalconcepts/C17049"
+"['Weight']","Body Weight","BiomedicalConcept_3","8579e039-0812-4f87-a52f-51b267507925","Body Weight","/mdr/bc/packages/2022-10-26/biomedicalconcepts/C81328"
