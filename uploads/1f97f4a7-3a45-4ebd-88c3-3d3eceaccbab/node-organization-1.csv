@@ -1,0 +1,3 @@
+"label","id","uuid:ID","organizationIdentifier","organizationIdentifierScheme","name"
+"","Organization_1","24f55b09-8457-40a7-963b-ad11d72b1de9","CT-GOV","USGOV","ClinicalTrials.gov"
+"","Organization_2","856d908a-0cc3-44db-b7a3-5933d9670f14","123456789","DUNS","ACME Pharma"
