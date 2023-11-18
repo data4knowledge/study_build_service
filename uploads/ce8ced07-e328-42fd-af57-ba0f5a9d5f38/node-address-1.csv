@@ -1,0 +1,3 @@
+"line","id","postalCode","city","state","uuid:ID","district","text"
+"line","Address_1","postal_code","city","state","4107b4a0-fc76-4fb2-8047-8b52b90caf45","district","line, city, district, state, postal_code, United Kingdom of Great Britain and Northern Ireland"
+"Somewhere","Address_2","12345","In a City","In a big state","aa3644ac-bcaa-47ca-afbb-998fdd05dc23","In a District","Somewhere, In a City, In a District, In a big state, 12345, France"
