@@ -1,0 +1,3 @@
+"label","id","description","uuid:ID","studyArmDataOriginDescription","name"
+"","StudyArm_1","Active Substance","9f2fb243-8b71-4eea-b8bd-2de0e9daaf8c","Data collected from subjects","Active"
+"","StudyArm_2","Placebo","2381ea9c-e04c-4681-b05f-41bf22f725af","Data collected from subjects","Placebo"
