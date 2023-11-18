@@ -1,0 +1,5 @@
+"name","bcPropertyEnabled","bcPropertyResponseCodes","bcPropertyDatatype","uuid:ID","bcPropertyRequired","label","id"
+"Sex","True","","string","4a654ab4-46e2-446c-917d-9c2cd2a9816f","True","Sex","BiomedicalConceptProperty_1"
+"Race","True","","string","b06ad44c-3da6-4109-869b-2deca486e563","True","Race","BiomedicalConceptProperty_2"
+"Vital Signs Result","True","[]","decimal","093c0379-985d-476f-9046-cd8ac2cac391","True","Vital Signs Result","BiomedicalConceptProperty_3"
+"Unit of Weight","True","","string","fe9a337d-d693-4510-8236-8e2bae8ccaaa","True","Unit of Weight","BiomedicalConceptProperty_4"
