@@ -1,0 +1,6 @@
+"label","id","transitionEndRule","description","uuid:ID","name","transitionStartRule"
+"","Encounter_1","","Screening encounter","610a889d-ac3d-4bcc-99c0-27a362f4774b","Screening",""
+"","Encounter_2","","Baseline encounter","16d1c852-9107-4c62-9db1-ed22be76805d","Baseline",""
+"","Encounter_3","","First dose","205a0f36-79d9-4b27-aa9e-4df87b93a173","15 min",""
+"","Encounter_4","","2 week visit","7de6290d-5d6e-4752-ae4a-a138fc211481","Day 24",""
+"","Encounter_5","","5 week visit","8d7480b5-3a89-46d0-9e8d-0ed3f7c8aa7d","Day 35",""
