@@ -1,0 +1,3 @@
+"name","dateValue","uuid:ID","label","description","id"
+"Approval","2023-01-01","f4e2b4b5-a8ce-4515-9b10-33833a103d20","Design Approval","Design approval date","GovernanceDate_1"
+"Approval","2023-01-01","d6cc4544-3fcc-4da2-8354-1c72016497a3","Protocol Approval","Protocol document approval date","GovernanceDate_2"
