@@ -1,0 +1,4 @@
+"plannedMaximumAgeOfParticipants","name","plannedMinimumAgeOfParticipants","uuid:ID","label","description","id","plannedNumberOfParticipants"
+"40 years","POP 1","18 years","fecbe8c1-5715-4617-a750-f2c8c7c189ca","","Pop 1","StudyDesignPopulation_1","100"
+"60 years","POP 2","18 years","f1709513-10ed-45ae-85ba-2a4447d994fa","","Pop 2","StudyDesignPopulation_2","20"
+"70 years","POP 3","18 years","35f8af24-6647-4b99-85a6-969204dab684","","Pop 3","StudyDesignPopulation_3","20"
