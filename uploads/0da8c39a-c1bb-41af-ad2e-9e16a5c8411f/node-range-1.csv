@@ -1,0 +1,4 @@
+"id","uuid:ID","isApproximate","minValue","instanceType","maxValue"
+"Range_2","a1eddd59-03af-47a2-8027-eceef3b37b6d","False","300.0","Range","300.0"
+"Range_1","f1b0b62a-da5c-4caa-b146-f8196dd0d3d5","False","300.0","Range","300.0"
+"Range_3","50562a39-d172-4901-898e-3f7cc355dcbb","False","50.0","Range","100.0"
