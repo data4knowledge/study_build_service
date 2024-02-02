@@ -1,3 +1,0 @@
-"description","parameterMap","uuid:ID","name","label","id"
-"Dictionary for IE","{'min_age': {'klass': 'StudyDesignPopulation', 'id': 'StudyDesignPopulation_1', 'attribute': 'plannedMinimumAge'}, 'max_age': {'klass': 'StudyDesignPopulation', 'id': 'StudyDesignPopulation_1', 'attribute': 'plannedMaximumAge'}, 'StudyPopulation': {'klass': 'StudyDesignPopulation', 'id': 'StudyDesignPopulation_1', 'attribute': 'description'}}","477adf8c-6cbf-426d-9601-1069223a11b8","IE_Dict","IE Dictionary","SyntaxTemplateDictionary_1"
-"Dictionary for Study Assessments","{'Activity1': {'klass': 'Activity', 'id': 'Activity_6', 'attribute': 'label'}}","ab8319f6-dbbf-4156-8718-a6f08b280b04","AS_Dict","Assessment Dictionary","SyntaxTemplateDictionary_2"

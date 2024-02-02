@@ -1,4 +1,0 @@
-"label","uuid:ID","text","instanceType","description","purpose","id","name"
-"","92c300bf-24d0-41a6-b4a4-7af31eadfa69","Clinical status assessed using a 7-category ordinal scale at Day 28","ENDPOINT","Day 28, 7 category scale","","Endpoint_1","END1"
-"","0e15921e-cbea-4700-a81d-5d261a008e4e","Time to clinical improvement (TTCI) defined as a National Early Warning Score 2 (NEWS2) of <=2 maintained for 24 hours","ENDPOINT","TTCI","","Endpoint_2","END2"
-"","2f665eee-1f27-42c2-a9a1-c8f2a382abfc","Time to improvement of at least 2 categories relative to baseline on a 7-category ordinal scale of clinical status","ENDPOINT","Time to Imporvement","","Endpoint_3","END3"

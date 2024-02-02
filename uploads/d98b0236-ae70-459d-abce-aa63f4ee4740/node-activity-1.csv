@@ -1,3 +1,0 @@
-"name","uuid:ID","isConditionalReason","isConditional","description","label","id"
-"Demographics","4ca710e9-613d-4da7-8111-af82ed8b5e04","","False","Basic Demog","","Activity_1"
-"Something Else","c44a964c-3362-4539-ac35-f7c0c402a823","Only do this if they have two heads","True","Something weird","","Activity_2"

@@ -1,6 +1,0 @@
-"uuid:ID","name","label","id","description"
-"d1f307c1-c2f7-44b6-a757-13976e153b29","Screening","","Encounter_1","Screening encounter"
-"64d75b11-3703-45ff-a914-ae623e03ecd8","Baseline","","Encounter_2","Baseline encounter"
-"5237b9a5-3c96-413f-b8fc-b042db2f4f60","15 min","","Encounter_3","First dose"
-"c2b9e3a6-485c-4a30-a8e3-782ac93564ac","Day 24","","Encounter_4","2 week visit"
-"d6cb1d62-3ee4-4cd5-a181-b623cd4f93cf","Day 35","","Encounter_5","5 week visit"

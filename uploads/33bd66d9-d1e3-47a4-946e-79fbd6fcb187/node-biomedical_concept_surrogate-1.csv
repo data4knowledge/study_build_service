@@ -1,5 +1,0 @@
-"name","id","uuid:ID","reference","label","description"
-"Age","BiomedicalConceptSurrogate_1","a7cadefd-27e8-46b2-a55c-ac47f35121c9","None set","Age","Age"
-"Weight","BiomedicalConceptSurrogate_2","780f7e44-d798-4e77-8509-64f45ec025dc","None set","Weight","Weight"
-"SYSBP","BiomedicalConceptSurrogate_3","1cd79c00-5c6f-4d01-8080-3cab33e6051f","None set","SYSBP","SYSBP"
-"DIABP","BiomedicalConceptSurrogate_4","e6ca78d8-b771-45b4-aad0-a6582e3ce6db","None set","DIABP","DIABP"

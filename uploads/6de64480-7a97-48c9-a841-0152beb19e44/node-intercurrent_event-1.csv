@@ -1,5 +1,0 @@
-"id","description","label","strategy","name","uuid:ID"
-"IntercurrentEvent_1","IC Event Description","","Patients with out of range lab values before dosing will be excluded","termination","af26f32e-6339-4b60-b833-349aef66755b"
-"IntercurrentEvent_2","IC Event Description","","A second bad event","termination","78aa0d03-3d71-488d-8b21-883b6c4e4a75"
-"IntercurrentEvent_3","IC Event Description","","A third bad thing","termination","67530079-15e1-46c8-aeb1-2a5d2144038f"
-"IntercurrentEvent_4","IC Event Description Number 2","","Really really bad shit","Bad stuff","91d40063-cec4-4144-b3b7-ee687f369f37"

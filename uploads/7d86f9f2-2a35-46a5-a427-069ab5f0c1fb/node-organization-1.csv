@@ -1,6 +1,0 @@
-"name","id","uuid:ID","identifier","label","identifierScheme"
-"ClinicalTrials.gov","Organization_1","03ebdd09-b1d1-459f-9875-e2d1c8f36ae3","CT-GOV","","USGOV"
-"ACME Pharma","Organization_2","fe9f86d8-6e3c-4f29-9108-abb1dd6fcd64","123456789","","DUNS"
-"European Union","Organization_3","4897e86d-0e89-48a3-b3a4-b196fe1223de","EU CT","","EU"
-"Food & Drug Administration","Organization_4","5ac493c0-c469-43bf-a780-a9f4b7267b74","FDA","","US"
-"World Health Organisation","Organization_5","bde27262-aa5d-4ef5-9d19-d3fe969cedb4","WHO","","UN"

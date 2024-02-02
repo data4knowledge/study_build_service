@@ -1,4 +1,0 @@
-"name","id","uuid:ID","parameterMap","label","description"
-"IE_Dict","SyntaxTemplateDictionary_1","839cb047-597f-4658-b677-682d836ee531","{'min_age': {'klass': 'StudyDesignPopulation', 'id': 'StudyDesignPopulation_1', 'attribute': 'plannedMinimumAge'}, 'max_age': {'klass': 'StudyDesignPopulation', 'id': 'StudyDesignPopulation_1', 'attribute': 'plannedMaximumAge'}}","IE Dictionary","Dictionary for IE"
-"OE_Dict","SyntaxTemplateDictionary_2","5f0a2fdc-452d-433c-a3b0-93e71a8e290d","{'min_age': {'klass': 'StudyDesignPopulation', 'id': 'StudyDesignPopulation_1', 'attribute': 'plannedMinimumAge'}}","OE Dictionary","Dictionary for OE"
-"Berber_Dict","SyntaxTemplateDictionary_3","6231e624-33f4-4c1d-bb1d-76b11ae6f34b","{'xxxx': {'klass': 'Activity', 'id': 'Activity_1', 'attribute': 'label'}}","Berber Dictionary","Dictionary for Berber Example"

@@ -1,4 +1,0 @@
-"procedureType","label","name","description","procedureIsConditional","id","uuid:ID","procedureIsConditionalReason"
-"CT Scan","CT Scan","PR1","CT Scan","False","Procedure_1","01d1479f-9425-42c0-bfdb-2a0f3eef7d11",""
-"","","PR_SUPINE","Supine_5min","False","Procedure_2","741ac1e4-e2c1-4619-a049-704de57018ec",""
-"","","PR_STAND","Stand_3min","False","Procedure_3","b7f2d8ce-746b-4661-8c1e-b9cac80fc54a",""

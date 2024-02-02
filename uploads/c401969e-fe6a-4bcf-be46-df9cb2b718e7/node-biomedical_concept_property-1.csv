@@ -1,5 +1,0 @@
-"uuid:ID","name","label","isEnabled","id","isRequired","datatype"
-"e4ce76b2-d286-4347-a772-48c9733586d8","Sex","Sex","True","BiomedicalConceptProperty_1","True","string"
-"83d2c7f9-bb01-4315-812f-e000b5f5ce88","Race","Race","True","BiomedicalConceptProperty_2","True","string"
-"ad9f7bc0-a5c4-497e-aa40-119e46d91397","Vital Signs Result","Vital Signs Result","True","BiomedicalConceptProperty_3","True","decimal"
-"05ccdd13-e9c5-4850-8f50-d83df4038515","Unit of Weight","Unit of Weight","True","BiomedicalConceptProperty_4","True","string"

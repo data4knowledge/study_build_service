@@ -1,3 +1,0 @@
-"name","id","uuid:ID","isConditional","label","isConditionalReason","description","procedureType"
-"PR1","Procedure_1","3b738b93-cc3d-45ab-91c7-adb3c423c56a","False","Stress procedure","","Stress procedure","Stress"
-"PR2","Procedure_2","6c76a0e1-0470-4831-86d0-bb6763072c24","True","6MWT","Only if stress test passed","6min Walk Test conducted after the stress test","Stress"

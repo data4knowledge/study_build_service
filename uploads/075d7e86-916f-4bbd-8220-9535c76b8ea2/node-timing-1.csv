@@ -1,6 +1,0 @@
-"windowUpper","window","description","name","label","id","windowLower","uuid:ID","value"
-"","","","TIMING_3","","Timing_1","","116d93a2-f298-4bff-a5df-f96e8d554dd0","PT0M"
-"PT4H","0..4 Hours","Pre Dose","TIMING_4","","Timing_2","PT0H","4c045601-7e73-454c-8fac-ad6e8077c044","PT0M"
-"PT1H","0..1 Hours","","TIMING_5","","Timing_3","PT0H","a5e423ce-ba50-43fa-b918-7f1227ee665c","PT0M"
-"","","+24 Hours","TIMING_6","","Timing_4","","9b574e72-843d-40ce-9d7e-30ef14a7ea01","PT24H"
-"P3D","-3..3 Days","+7 Days","TIMING_7","","Timing_5","P3D","2fe997f9-d69b-49a2-8016-7de3e95c3f86","P7D"

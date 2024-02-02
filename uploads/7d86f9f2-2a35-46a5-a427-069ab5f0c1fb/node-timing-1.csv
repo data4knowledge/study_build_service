@@ -1,7 +1,0 @@
-"name","id","value","uuid:ID","windowLower","window","windowUpper","label","description"
-"TIM1","Timing_1","P2D","764917d1-fddf-40ca-a368-e5454c68a97e","","","","Screening","Screening timing"
-"TIM2","Timing_2","PT15M","12ad6b61-3d36-4dc4-a5e6-dcf8cd0542eb","PT4H","-4..0 hours","PT0H","Pre dose","Pre dose timing"
-"TIM3","Timing_3","P1D","843966aa-d1e9-4258-b2ca-2935ca30a59f","","","","Dosing","Dosing anchor"
-"TIM4","Timing_4","P14D","30d9c586-7a23-461d-9a2b-60cab1bc4216","P1D","-1..1 days","P1D","Day 14","Day 14 timing"
-"TIM5","Timing_5","P28D","51fc8760-63f5-4b49-8eff-3235690875da","P1D","-1..1 days","P1D","Day 28","Day 28 timing"
-"TIM6","Timing_6","P42D","c85742d0-ea97-4280-8cb1-6d28f96135b1","P3D","-3..3 days","P3D","Follow Up","Follow up timing"

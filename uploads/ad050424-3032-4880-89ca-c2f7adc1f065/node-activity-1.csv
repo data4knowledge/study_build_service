@@ -1,3 +1,0 @@
-"id","name","activityIsConditional","label","activityIsConditionalReason","description","definedProcedures","uuid:ID"
-"Activity_1","Demographics","False","","","Basic Demog","[]","40d704e0-1899-4b21-b731-65f05f0149be"
-"Activity_2","Something Else","True","","Only do this if they have two heads","Something weird","[]","86c4e8ce-03cf-4d57-aa94-235070be5e7a"

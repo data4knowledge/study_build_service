@@ -1,5 +1,0 @@
-"name","id","uuid:ID","isConditional","label","isConditionalReason","description"
-"Demographics","Activity_1","7c38994c-aed3-41c8-9308-3e3c3358829d","False","Demographics","","Basic Demog"
-"Procedures","Activity_2","04b6a777-1716-487f-9a2b-f5c29deca854","False","Procedures","","Perform the procedures"
-"Optional Weight","Activity_3","495e2ca4-8fc9-428a-8b65-15f6af85e143","True","Weight optional","Only do this if this 'condition' is true","Perform the optional weight data collection"
-"Optional","Activity_4","2de6c89d-0e75-406b-8dc7-53cf3e732ed4","False","Optional activity","","Optional safety activity"
