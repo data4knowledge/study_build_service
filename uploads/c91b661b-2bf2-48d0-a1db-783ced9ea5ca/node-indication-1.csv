@@ -1,0 +1,3 @@
+"isRareDisease","id","description","uuid:ID","name","instanceType","label"
+"False","Indication_1","Alzheimer's disease","6d5e67aa-e594-4990-8859-2df32ca3a628","IND1","Indication","Alzheimer's disease"
+"False","Indication_2","Alzheimer's disease","97aa03b4-e46b-471c-abde-82950dad4452","IND2","Indication","Alzheimer's disease"
