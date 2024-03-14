@@ -1,0 +1,2 @@
+"id","description","name","uuid:ID","label","rationale","instanceType"
+"StudyDesign_1","The main design for the study","Study Design 1","a405dfde-25db-4564-840c-50f88a30feb6","","The discontinuation rate associated with this oral dosing regimen was 58.6% in previous studies, and alternative clinical strategies have been sought to improve tolerance for the compound. To that end, development of a Transdermal Therapeutic System (TTS) has been initiated.","StudyDesign"
