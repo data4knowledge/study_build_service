@@ -1,0 +1,3 @@
+"uuid:ID","name","label","reference","description","id","instanceType"
+"7c83ffaa-9672-4fb4-ada9-1632306b24c9","Date of Birth","Date of Birth","None set","Date of Birth","BiomedicalConceptSurrogate_1","BiomedicalConceptSurrogate"
+"a97f4f75-2abd-4b84-a129-567477212224","HbA1c","HbA1c","None set","HbA1c","BiomedicalConceptSurrogate_2","BiomedicalConceptSurrogate"
