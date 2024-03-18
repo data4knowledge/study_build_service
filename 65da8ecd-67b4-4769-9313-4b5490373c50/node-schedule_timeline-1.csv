@@ -1,0 +1,5 @@
+"entryCondition","instanceType","name","mainTimeline","uuid:ID","description","label","id"
+"Potential subject identified","ScheduleTimeline","Main Timeline","True","c710ec8a-f9b2-4bd4-8a58-febdff976382","This is the main timeline for the study design.","Main Timeline","ScheduleTimeline_4"
+"Subject suffers an adverse event","ScheduleTimeline","Adverse Event Timeline","False","651cce06-4aaf-4197-900d-7cc1304afa75","This is the adverse event timeline","Adverse Event Timeline","ScheduleTimeline_1"
+"Subject terminates the study early","ScheduleTimeline","Early Termination Timeline","False","aaff6751-a1fb-43b4-bcd4-cd95ec8d74db","This is the early termination processing","Early Termination Timeline","ScheduleTimeline_2"
+"Automatic execution","ScheduleTimeline","Vital Sign Blood Pressure Timeline","False","654a4fcd-659e-4369-a528-299e6ecdae32","BP Profile","Vital Sign Blood Pressure Timeline","ScheduleTimeline_3"
