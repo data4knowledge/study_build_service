@@ -1,0 +1,4 @@
+"text","uuid:ID","instanceType","city","line","state","id","district","postalCode"
+"Lilly Corporate Ctr, Indianapolis, IN, 4628, United States of America","294480fb-b6af-4dbd-b8c4-c0da91c70366","Address","Indianapolis","Lilly Corporate Ctr","IN","Address_1","","4628"
+"National Library of Medicine, Bethesda, 8600 Rockville Pike, MD, 20894, United States of America","f21eba71-6fc1-4aa2-ba6b-25bf6f75ec16","Address","Bethesda","National Library of Medicine","MD","Address_2","8600 Rockville Pike","20894"
+"line, city, district, state, postal_code, United Kingdom of Great Britain and Northern Ireland","45a94d91-e341-4338-96cf-b1ab09f9e9c8","Address","city","line","state","Address_3","district","postal_code"
