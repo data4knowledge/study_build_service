@@ -1,0 +1,6 @@
+"instanceType","reference","uuid:ID","id","tag"
+"ParameterMap","<usdm:ref klass=""Range"" id=""Range_3"" attribute=""minValue""></usdm:ref>","2ce9606d-04a5-443a-946d-3de7830bfe04","ParameterMap_1","min_age"
+"ParameterMap","<usdm:ref klass=""Range"" id=""Range_3"" attribute=""maxValue""></usdm:ref>","6df43b08-45c7-4886-bb98-3c4feb1a82b1","ParameterMap_2","max_age"
+"ParameterMap","<usdm:ref klass=""StudyDesignPopulation"" id=""StudyDesignPopulation_1"" attribute=""description""></usdm:ref>","7ec50c9b-9718-4b81-9a28-c5d7dcb97e95","ParameterMap_3","StudyPopulation"
+"ParameterMap","<usdm:ref klass=""Activity"" id=""Activity_6"" attribute=""label""></usdm:ref>","1496f7a8-d8c6-4885-853b-a6611f45926d","ParameterMap_4","Activity1"
+"ParameterMap","<usdm:ref klass=""Activity"" id=""Activity_5"" attribute=""label""></usdm:ref>","b917911c-3a47-446f-b122-d0b5f79ca473","ParameterMap_5","Activity2"
