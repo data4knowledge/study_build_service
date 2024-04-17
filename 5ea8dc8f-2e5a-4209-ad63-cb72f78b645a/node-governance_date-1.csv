@@ -1,0 +1,3 @@
+"description","instanceType","name","uuid:ID","label","dateValue","id"
+"Design approval date","GovernanceDate","D_APPROVE","d87a7bf5-ec7f-48f5-9017-ff5b6c050f6e","Design Approval","2006-06-01","GovernanceDate_1"
+"Protocol document approval date","GovernanceDate","P_APPROVE","68641370-f7cf-4207-9e66-e216c7f7cc3c","Protocol Approval","2006-07-01","GovernanceDate_2"
